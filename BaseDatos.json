@@ -1,0 +1,109 @@
+[
+    {
+     "id": 1, 
+     "title": "Tomate", 
+     "precio": 320, 
+     "thumbnailUrl": "https://static.vecteezy.com/system/resources/thumbnails/001/271/020/small/realistic-tomato-isolated-on-white-background.jpg"},
+
+    {
+     "id": 2, 
+     "title": "Lechuga", 
+     "precio": 80, 
+     "thumbnailUrl": "https://www.agroterra.com/media/catalog/product/cache/3/image/200x200/9df78eab33525d08d6e5fb8d27136e95/6/4/lechuga-casabella-2-gr___646163898894.jpeg"},
+
+    {
+     "id": 3, 
+     "title": "Papas", 
+     "precio": 220, 
+     "thumbnailUrl": "https://d2ke0ff4uknkae.cloudfront.net/hortalizas/wp-content/uploads/2011/09/25842-200x200.jpg"},
+
+    {
+     "id": 5, 
+     "title": "Carne", 
+     "precio": 1100, 
+     "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9brz9031skaIXDdJu6LZ_Ug0anjEEgASoKsJq7Kluuz0s8vgsopeU9n6aPNBzAkNy1gE&usqp=CAU"},
+
+    {
+     "id": 4, 
+     "title": "Pan", 
+     "precio": 120, "thumbnailUrl": "https://www.cordiez.com.ar/arquivos/ids/159816-200-200/PAN-TREBOLITO-BLANCO-1-5591.jpg?v=637450398280930000"},
+
+    {
+     "id": 6, 
+     "title": "Pollo", 
+     "precio": 720, 
+     "thumbnailUrl": "https://www.hola.com/imagenes/cocina/recetas/2011082354157/pollo-papas-arroz/0-183-381/aves_-b.jpg"},
+
+    {
+     "id": 7, 
+     "title": "Aceite", 
+     "precio": 150, 
+     "thumbnailUrl": "https://www.cordiez.com.ar/arquivos/ids/163226-200-200/Aceite-Mezcla-Siglo-de-Oro-900-Cc-1-6530.jpg?v=637540181770970000"},
+
+    {
+     "id": 8, 
+     "title": "AceiteOliva", 
+     "precio": 1200, 
+     "thumbnailUrl": "https://www.gemadistribuidora.com.ar/wp-content/uploads/2020/06/aceite-blend-medio-2lt-200x200.jpg"},
+
+    {
+     "id": 9, 
+     "title": "Fideos", 
+     "precio": 80, 
+     "thumbnailUrl": "https://lenumarket.com/wp-content/uploads/2021/04/pipette-sam-mills-coditos-lenumarket-200x200.jpg"},
+
+    {
+     "id": 10, 
+     "title": "Tallarines", 
+     "precio": 85, 
+     "thumbnailUrl": "https://www.cordiez.com.ar/arquivos/ids/158823-200-200/FIDEOS-MOLTO-TALLARINES-1-3122.jpg?v=637432197998200000"},
+
+    {
+     "id": 11, 
+     "title": "Leche", 
+     "precio": 110, 
+     "thumbnailUrl": "https://www.cordiez.com.ar/arquivos/ids/157928-200-200/LECHE-MANFREY-ENTERA-UAT-1-2572.jpg?v=637432186222330000"},
+
+    {
+     "id": 12, 
+     "title": "Arroz", 
+     "precio": 380, 
+     "thumbnailUrl": "https://www.cordiez.com.ar/arquivos/ids/163210-200-200/Arroz-Largo-Fino-00000-Primer-Precio-1-Kg-1-6107.jpg?v=637539965621530000"},
+
+    {
+     "id": 13, 
+     "title": "Dulce", 
+     "precio": 380, 
+     "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0081/5929/7599/products/Serenisima_1KG_2020_cf264a47-3c07-4250-9263-650c192bc058_200x200.jpg?v=1596650637"},
+
+    {
+     "id": 14, 
+     "title": "Queso", 
+     "precio": 380, 
+     "thumbnailUrl": "https://www.cordiez.com.ar/arquivos/ids/164092-200-200/Queso-Untable-Finlandia-Light-290-gr-1-6795.jpg?v=637589358174500000"},
+
+    {
+     "id": 15, 
+     "title": "Mantequilla", 
+     "precio": 380, 
+     "thumbnailUrl": "https://jumbo.vteximg.com.br/arquivos/ids/371973-200-200?width=200&height=200&aspect=true"},
+
+    {
+     "id": 16, 
+     "title": "Galleta", 
+     "precio": 380, 
+     "thumbnailUrl": "https://www.cordiez.com.ar/arquivos/ids/163310-200-200/Galletas-de-Arroz-Dulces-Dos-Hermanos-100-Gr-1-6472.jpg?v=637541009636170000"},
+
+    {
+     "id": 17, 
+     "title": "Banana", 
+     "precio": 380, 
+     "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu0tmw0BcKdg65ps5xdXMHD2Ez6fSVlz3tmzB44Fn_OHrAST5SZ77k2G6dCMn6awyOAiM&usqp=CAU"},
+
+    {
+     "id": 18, 
+     "title": "Manzana", 
+     "precio": 380, 
+     "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0358/9780/2890/products/ManzanaVerde_200x.jpg?v=1584819581"}
+
+]
